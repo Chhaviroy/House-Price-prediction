@@ -74,14 +74,7 @@ Make sure you have the following installed:
 - Required libraries:  
   ```bash
   pip install numpy pandas matplotlib scikit-learn
-  Installation & Usage
-
-Clone this repository:
-git clone https://github.com/your-username/house-price-prediction.git
-Upload dataset.csv to Colab or Jupyter.
-
-Run the notebook:
-jupyter notebook LINEAR_REGRESSION.ipynb
+  
 
  References  
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/)  
